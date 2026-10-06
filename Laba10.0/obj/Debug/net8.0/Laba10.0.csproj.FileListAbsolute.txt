@@ -1,0 +1,14 @@
+C:\Users\samsheiko\source\repos\Laba10.0\bin\Debug\net8.0\Laba10.0.exe
+C:\Users\samsheiko\source\repos\Laba10.0\bin\Debug\net8.0\Laba10.0.deps.json
+C:\Users\samsheiko\source\repos\Laba10.0\bin\Debug\net8.0\Laba10.0.runtimeconfig.json
+C:\Users\samsheiko\source\repos\Laba10.0\bin\Debug\net8.0\Laba10.0.dll
+C:\Users\samsheiko\source\repos\Laba10.0\bin\Debug\net8.0\Laba10.0.pdb
+C:\Users\samsheiko\source\repos\Laba10.0\obj\Debug\net8.0\Laba10.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsheiko\source\repos\Laba10.0\obj\Debug\net8.0\Laba10.0.AssemblyInfoInputs.cache
+C:\Users\samsheiko\source\repos\Laba10.0\obj\Debug\net8.0\Laba10.0.AssemblyInfo.cs
+C:\Users\samsheiko\source\repos\Laba10.0\obj\Debug\net8.0\Laba10.0.csproj.CoreCompileInputs.cache
+C:\Users\samsheiko\source\repos\Laba10.0\obj\Debug\net8.0\Laba10.0.dll
+C:\Users\samsheiko\source\repos\Laba10.0\obj\Debug\net8.0\refint\Laba10.0.dll
+C:\Users\samsheiko\source\repos\Laba10.0\obj\Debug\net8.0\Laba10.0.pdb
+C:\Users\samsheiko\source\repos\Laba10.0\obj\Debug\net8.0\Laba10.0.genruntimeconfig.cache
+C:\Users\samsheiko\source\repos\Laba10.0\obj\Debug\net8.0\ref\Laba10.0.dll
